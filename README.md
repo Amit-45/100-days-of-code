@@ -5,6 +5,6 @@ This repository will contain all the codes that I will do in #100DaysOfCode chal
 The ultimate goal of the 100 Days of Code challenge is to become a better developer and inculcate coding as a habit.
 If you want to revisit your coding skills or want to avoid procrastination, you should consider joining the challenge too.
 
-For more details about this challenge click [here](https://www.100daysofcode.com/)
+For more details about this challenge click [here](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge)
 
 

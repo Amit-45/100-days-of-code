@@ -1,9 +1,8 @@
 /*
-Problem - Check	whether	m	is	present	in	an	array	of	size	n	or	not.	
-Input	-	n,m	(Size of array,	number to be searched )
-      -	Take	input	n	elements	for	the	array
-Output	->	true/false
-[Hint:-	Create a dynamic array]	
+Problem - Check whether	m is present in an array of size n or not.	
+Input	-n,m	(Size of array,number to be searched )
+Output->	true/false
+[Hint:-Create a dynamic array]	
 
 */
 #include <bits/stdc++.h>

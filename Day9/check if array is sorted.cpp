@@ -5,12 +5,12 @@ is sorted in non-decreasing order or not.
 Input:
 N = 5
 arr[] = {10, 20, 30, 40, 50}
-Output: 1
+Output: Sorted
 Explanation: The given array is sorted.
 
 N = 6
 arr[] = {90, 80, 100, 70, 40, 30}
-Output: 0
+Output: Not sorted
 Explanation: The given array is not sorted.
 
 */

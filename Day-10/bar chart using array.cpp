@@ -14,20 +14,15 @@ Constraints:
 1 <= n <= 30
 0 <= n1, n2, .. n elements <= 10
 Sample Input:
-5
-3
-1
-0
-7
-5
+6 
+1 3 4 2 3 5
 Sample Output:
-			*		
-			*		
-			*	*	
-			*	*	
-*			*	*	
-*			*	*	
-*	*		*	*	
+
+					*	
+		*			*	
+	*	*		*	*	
+	*	*	*	*	*	
+*	*	*	*	*	*		
 
 */
 #include<bits/stdc++.h>

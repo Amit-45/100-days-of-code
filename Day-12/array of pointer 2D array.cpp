@@ -1,4 +1,4 @@
-//Program to create multidimentional array using array of pointer method and then printing it.
+//Program to create multidimensional array using array of pointer method and then printing it.
 #include<bits/stdc++.h>
 using namespace std;
 int main()

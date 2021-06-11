@@ -28,10 +28,6 @@ struct area
     
 };
 
-
-
-
-
 void find_area(int side, int le, int wd)
 {
 
@@ -43,20 +39,14 @@ void find_area(int side, int le, int wd)
 
    
 }
-
-// { Driver Code Starts.
-
 int main() {
 	
-	int t;
-    cin>>t;
+	int t; cin>>t;
 	
 	while(t--)
 	{
 	    int side, length, wide;
 	    cin>>side>>length>>wide;
-	    
-	  
 	    
 	    find_area(side, length, wide);
 	    cout<<endl;

@@ -1,5 +1,5 @@
 //exception handling involves Stack Unwinding if exception is not handled in same function (where it is thrown).
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
   
 void f1() throw (int) {

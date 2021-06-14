@@ -28,7 +28,7 @@ int main()
 }
 /*
 
-Caught exception of demo1 class 
-Caught exception of demo2 class 
+Caught exception of class A
+Caught exception of class B 
 
 */

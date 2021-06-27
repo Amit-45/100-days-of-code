@@ -1,4 +1,4 @@
-//Program to ptint all possible subsets.
+//Program to print all possible subsets.
 #include <bits/stdc++.h>
 using namespace std;
 void allPossibleSubsets(char arr[], int n)

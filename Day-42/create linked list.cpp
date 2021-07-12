@@ -1,4 +1,5 @@
 //C++ program to create a linked list of three nodes
+//not the general method
 #include <iostream>
 using namespace std;
 
